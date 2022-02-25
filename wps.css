@@ -1,0 +1,17 @@
+body{
+    font-family: Arial,Sans-serif,Monospace,Serif;
+}
+header{
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+footer{
+    display: flex;
+}
+.nav-link{
+    font-size: 13pt;
+}
+.none{
+    margin-top: 20px;
+}
